@@ -99,7 +99,7 @@ livedocs-comunicacao-com-websockets-e-mongodb/
    ```
 5. Start the server:
    ```sh
-   node servidor/servidor.js
+   node servidor/socket-back.js
    ```
 6. Open your browser and navigate to `http://localhost:3000` to access the application.
 
