@@ -86,7 +86,7 @@ livedocs-comunicacao-com-websockets-e-mongodb/
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/livedocs-comunicacao-com-websockets-e-mongodb.git
+   git clone https://github.com/goosekiing/livedocs-comunicacao-com-websockets-e-mongodb.git
    ```
 2. Navigate to the project directory:
    ```sh
